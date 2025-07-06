@@ -25,23 +25,27 @@
 ## 📸 Uygulama Ekran Görüntüleri
 
 <h4>🏠 Ana Sayfa</h4>
-<img src="./screenshots/Home-screens.png" width="300"/>
+<p float="left">
+  <img src="./screenshots/Home-screens.png" width="250"/>
+</p>
 
 <h4>🛒 Ürün Listesi</h4>
-<img src="./screenshots/Select.png" width="300"/>
-<img src="./screenshots/select2.png" width="300"/>
+<p float="left">
+  <img src="./screenshots/Select.png" width="250"/>
+  <img src="./screenshots/select2.png" width="250"/>
+</p>
 
-<h4>🔍 Arama Ekranı</h4>
-<img src="./screenshots/Search.png" width="300"/>
+<h4>🔍 Arama & Sepet</h4>
+<p float="left">
+  <img src="./screenshots/Search.png" width="250"/>
+  <img src="./screenshots/Basket.png" width="250"/>
+</p>
 
-<h4>🛍️ Sepet Ekranı</h4>
-<img src="./screenshots/Basket.png" width="300"/>
-
-<h4>🍽️ Önerilen Yemekler</h4>
-<img src="./screenshots/Recommended-dishes.png" width="300"/>
-
-<h4>📋 Yemek Tarifi Detayı</h4>
-<img src="./screenshots/YemekDetail.png" width="300"/>
+<h4>🍽️ Önerilen Tarifler & Detay</h4>
+<p float="left">
+  <img src="./screenshots/Recommended-dishes.png" width="250"/>
+  <img src="./screenshots/YemekDetail.png" width="250"/>
+</p>
 
 ---
 
