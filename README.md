@@ -33,7 +33,7 @@
 ### Önerilen Yemekler  Ekranı
 ![Recommended-dishes Screen](./screenshots/Recommended-dishes.png)
 ### Yemek Tarifi  Ekranı
-![YemekDetail Screen](./screenshots/YemekDetails)
+![YemekDetail Screen](./screenshots/YemekDetail)
 ## 🧩 Kurulum
 
 ```bash
