@@ -50,7 +50,7 @@
 ---
 
 ## 🧩 Kurulum
-
+⚠️ Firebase bağlantısı için assets/FireBase/FireStore.tsx içinde gerekli yapılandırmaları yapmayı unutmayın.
 ```bash
 git clone https://github.com/Furkan-Ozbayrak/ne-pisirsem.git
 cd ne-pisirsem/NePisirsem
