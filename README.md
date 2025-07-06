@@ -21,7 +21,6 @@
 - **Expo CLI** – Mobil uygulamayı test ve geliştirme aracı  
 
 ---
-
 ## 📸 Uygulama Ekran Görüntüleri
 
 <h4>🏠 Ana Sayfa</h4>
@@ -35,13 +34,13 @@
   <img src="./screenshots/select2.png" width="250"/>
 </p>
 
-<h4>🔍 Arama & Sepet</h4>
+<h4>🔍 Arama & 🛍️ Sepet</h4>
 <p float="left">
   <img src="./screenshots/Search.png" width="250"/>
   <img src="./screenshots/Basket.png" width="250"/>
 </p>
 
-<h4>🍽️ Önerilen Tarifler & Detay</h4>
+<h4>🍽️ Önerilen Tarifler & 📋 Tarif Detayı</h4>
 <p float="left">
   <img src="./screenshots/Recommended-dishes.png" width="250"/>
   <img src="./screenshots/YemekDetail.png" width="250"/>
