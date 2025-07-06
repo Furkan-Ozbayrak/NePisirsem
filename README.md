@@ -21,15 +21,6 @@
 - **Expo CLI** – Mobil uygulamayı test ve geliştirme aracı
 
 ---
-
-## 🧩 Kurulum
-
-```bash
-git clone https://github.com/Furkan-Ozbayrak/ne-pisirsem.git
-cd ne-pisirsem/NePisirsem
-npm install
-npx expo start
-
 ### Ana Sayfa
 ![Home Screen](../screenshots/Home-screens.png)
 ### Ürünler Lİstesi
@@ -43,3 +34,12 @@ npx expo start
 ![Recommended-dishes Screen](./screenshots/Recommended-dishes.png)
 ### Önerilen Yemekler  Ekranı
 ![YemekDetails Screen](../screenshots/YemekDetails)
+## 🧩 Kurulum
+
+```bash
+git clone https://github.com/Furkan-Ozbayrak/ne-pisirsem.git
+cd ne-pisirsem/NePisirsem
+npm install
+npx expo start
+
+
