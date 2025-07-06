@@ -22,12 +22,12 @@
 
 ---
 ### Ana Sayfa
-![Home Screen](../screenshots/Home-screens.png)
+![Home Screen](./screenshots/Home-screens.png)
 ### Ürünler Lİstesi
-(../screenshots/Select.png)
-(../screenshots/Select2.png)
+![URUN LİSTESİ](./screenshots/Select.png)
+![URUN LİSTESİ](../screenshots/Select2.png)
 ### Arama  Ekranı
-![Search Screen](../screenshots/Search.png)
+![Search Screen](./screenshots/Search.png)
 ### Sepet  Ekranı
 ![Basket Screen](../screenshots/Basket.png)
 ### Önerilen Yemekler  Ekranı
