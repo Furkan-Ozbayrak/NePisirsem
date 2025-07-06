@@ -25,7 +25,7 @@
 ![Home Screen](./screenshots/Home-screens.png)
 ### Ürünler Lİstesi
 ![URUN LİSTESİ](./screenshots/Select.png)
-![URUN LİSTESİ](./screenshots/Select2.png)
+(./screenshots/Select2.png)
 ### Arama  Ekranı
 ![Search Screen](./screenshots/Search.png)
 ### Sepet  Ekranı
