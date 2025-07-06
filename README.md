@@ -31,15 +31,15 @@ npm install
 npx expo start
 
 ### Ana Sayfa
-![Home Screen](..//screenshots/Home-screens.png)
+![Home Screen](../screenshots/Home-screens.png)
 ### Ürünler Lİstesi
-(..//screenshots/Select.png)
-(..//screenshots/Select2.png)
+(../screenshots/Select.png)
+(../screenshots/Select2.png)
 ### Arama  Ekranı
-![Search Screen](..//screenshots/Search.png)
+![Search Screen](../screenshots/Search.png)
 ### Sepet  Ekranı
-![Basket Screen](..//screenshots/Basket.png)
+![Basket Screen](../screenshots/Basket.png)
 ### Önerilen Yemekler  Ekranı
-![Recommended-dishes Screen](.//screenshots/Recommended-dishes.png)
+![Recommended-dishes Screen](./screenshots/Recommended-dishes.png)
 ### Önerilen Yemekler  Ekranı
-![YemekDetails Screen](..//screenshots/YemekDetails)
+![YemekDetails Screen](../screenshots/YemekDetails)
