@@ -29,11 +29,11 @@
 ### Arama  Ekranı
 ![Search Screen](./screenshots/Search.png)
 ### Sepet  Ekranı
-![Basket Screen](../screenshots/Basket.png)
+![Basket Screen](./screenshots/Basket.png)
 ### Önerilen Yemekler  Ekranı
 ![Recommended-dishes Screen](./screenshots/Recommended-dishes.png)
 ### Önerilen Yemekler  Ekranı
-![YemekDetails Screen](../screenshots/YemekDetails)
+![YemekDetails Screen](./screenshots/YemekDetails)
 ## 🧩 Kurulum
 
 ```bash
