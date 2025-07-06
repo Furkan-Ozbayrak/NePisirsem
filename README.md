@@ -29,3 +29,17 @@ git clone https://github.com/Furkan-Ozbayrak/ne-pisirsem.git
 cd ne-pisirsem/NePisirsem
 npm install
 npx expo start
+
+### Ana Sayfa
+![Home Screen](./screenshots/Home-screens.png)
+### Ürünler Lİstesi
+(./screenshots/Select.png)
+(./screenshots/Select2.png)
+### Arama  Ekranı
+![Search Screen](./screenshots/Search.png)
+### Sepet  Ekranı
+![Basket Screen](./screenshots/Basket.png)
+### Önerilen Yemekler  Ekranı
+![Recommended-dishes Screen](./screenshots/Recommended-dishes.png)
+### Önerilen Yemekler  Ekranı
+![YemekDetails Screen](./screenshots/YemekDetails)
