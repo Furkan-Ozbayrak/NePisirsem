@@ -25,7 +25,7 @@
 ![Home Screen](./screenshots/Home-screens.png)
 ### Ürünler Lİstesi
 ![URUN LİSTESİ](./screenshots/Select.png)
-![URUN LİSTESİ](./screenshots/Select2.png)
+![URUN LİSTESİ](./screenshots/select2.png)
 ### Arama  Ekranı
 ![Search Screen](./screenshots/Search.png)
 ### Sepet  Ekranı
@@ -33,7 +33,7 @@
 ### Önerilen Yemekler  Ekranı
 ![Recommended-dishes Screen](./screenshots/Recommended-dishes.png)
 ### Yemek Tarifi  Ekranı
-![YemekDetails Screen](./screenshots/YemekDetails)
+![YemekDetail Screen](./screenshots/YemekDetails)
 ## 🧩 Kurulum
 
 ```bash
